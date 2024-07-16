@@ -1,0 +1,31 @@
+project:
+  type: website
+  resources: assets
+  output-dir: docs
+
+website:
+  title: "Gabriel Eze"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - projects.qmd
+    right: 
+      - icon: linkedin
+        href: https://www.linkedin.com/in/gabriel-eze/
+      - icon: github
+        href: https://github.com/dashboard
+      - icon: file-pdf
+        href: assets/Eze_Gabriel_Resume.pdf
+
+format:
+  html:
+    theme: 
+      light: flatly
+      dark: darkly
+        # - custom.css
+    css: styles.css
+    toc: true
+
+editor: visual
+

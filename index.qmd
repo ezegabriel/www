@@ -1,0 +1,19 @@
+---
+title: "Gabriel Eze"
+about: 
+  template: trestles
+  image: assets/fzo2destf5mb2sebnmxd.jpg
+  links: 
+    - icon: envelope
+      text: Email
+      href: mailto:chieloka.eze@centre.edu
+    - icon: github
+      text: GitHub
+      href: https://github.com/dashboard
+      target: _blank
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/gabriel-eze/
+---
+
+Welcome to my website! I am a rising junior at Centre College, double majoring in Mathematics & Data Science. I'm interested in soccer

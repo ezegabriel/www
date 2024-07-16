@@ -1,0 +1,18 @@
+---
+title: "Capstone"
+description: "Pitch arsenal EDA"
+date: July 2024
+about: 
+  template: solana
+  image: fzo2destf5mb2sebnmxd.jpg
+  links: 
+    - icon: github
+      text: 'GitHub'
+      href: https://github.com/nehakotha7/CMSAC-Dodgers-Project
+    - icon: laptop
+      text: Slides
+      href: https://docs.google.com/presentation/d/1ol66WBsCZmR8Umm8a6jy-t9BFpNCM59FGii47Q0GBLk/edit#slide=id.p
+
+---
+
+Insert description down here!

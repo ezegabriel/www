@@ -1,0 +1,23 @@
+---
+title: "Capstone"
+description: "Capstone project on modeling pitch arsenal with Lasso regression for SURE 2024 at CMU"
+date: July 2024
+about: 
+  template: solana
+  image: fzo2destf5mb2sebnmxd.jpg
+  links: 
+    - icon: github
+      text: 'GitHub'
+      href: https://github.com/nehakotha7/CMSAC-Dodgers-Project
+    - icon: laptop
+      text: Slides
+      href: https://docs.google.com/presentation/d/1ol66WBsCZmR8Umm8a6jy-t9BFpNCM59FGii47Q0GBLk/edit#slide=id.p
+    - icon: file
+      text: Poster
+      href: https://docs.google.com/document/d/1UnqvcfNKVFWN3nhXiYCrP42dVPpmT41nESAVHSh6xhI/edit
+    - icon: pencil
+      text: Report
+      href: https://36-sure.github.io/
+---
+
+Insert description down here!
