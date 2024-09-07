@@ -9,7 +9,7 @@ about:
       href: mailto:chieloka.eze@centre.edu
     - icon: github
       text: GitHub
-      href: https://github.com/dashboard
+      href: https://github.com/ezegabriel
       target: _blank
     - icon: linkedin
       text: LinkedIn
