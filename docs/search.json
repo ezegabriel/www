@@ -4,27 +4,69 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Below, you can find my projects …\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCapstone\n\n\n\n\n\nCapstone project on modeling pitch arsenal with Lasso regression for SURE 2024 at CMU\n\n\n\n\n\nJul 1, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nCapstone\n\n\n\n\n\nPitch arsenal EDA\n\n\n\n\n\nJul 1, 2024\n\n\n\n\n\n\nNo matching items"
+    "text": "Below, you can find my recent projects …\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCapstone\n\n\n\n\n\nPredicting Optimal MLB Pitch Arsenals Using Machine Learning: A SURE 2024 Capstone at Carnegie Mellon\n\n\n\n\n\nJul 1, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nEarly EDA\n\n\n\n\n\nIntroductory Data Visuaization\n\n\n\n\n\nJun 1, 2024\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "projects/capstone/capstone.html",
     "href": "projects/capstone/capstone.html",
     "title": "Capstone",
     "section": "",
-    "text": "Insert description down here!"
+    "text": "The Capstone project, part of Carnegie Mellon’s SURE 2024 program, focused on building a pitch recommendation system for MLB players using Lasso regression and Random Foresting techniques. The goal was to predict Stuff+ values—a measure of a pitch’s effectiveness—based on pitch characteristics like velocity and spin rate. By analyzing extensive MLB data from FanGraphs and Baseball Savant, our model suggested the best pitches for players to add to their arsenals, improving decision-making for teams and players.\nThrough the use of data cleaning, cross-validation, and Random Forest, we identified key relationships between pitch types, delivering insights that could help optimize player performance. The project culminated in an interactive tool and a detailed presentation, which provided actionable recommendations for MLB teams looking to enhance their pitchers’ arsenal—ultimately with new and effective pitch variations."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Gabriel Eze",
     "section": "",
-    "text": "Welcome to my website! I am a rising junior at Centre College, double majoring in Mathematics & Data Science. I’m interested in soccer"
+    "text": "Welcome to my website! I am currently a junior at Centre College, double majoring in Mathematics and Data Science. I love playing soccer and video games—they are my escape from the constant demands of being a college student, especially as an international student. I hail from Nigeria in Sub-Saharan Africa, and I am the third of four boys. I’m fortunate to have the opportunity to pursue tertiary education here in the U.S.\nI’ve learned and grown immensely since my introduction to Western life here in Danville, KY, and the pursuit of the American dream. Looking back on my formative years, I remember my father always telling me that mathematics is the easiest subject because it never lies. I quickly developed a love for algebraic equations and word problems, which sparked my interest in Data Science and Analytics. A few years into college, my Mathematics professor encouraged me to add a mathematics major. Though it added extra responsibility, I knew my passion for math was still strong, and looking back, I feel incredibly fulfilled by that decision. As for my refined career path, I am eager to see what the next two years have in store for me!"
   },
   {
     "objectID": "projects/eda/eda.html",
     "href": "projects/eda/eda.html",
-    "title": "Capstone",
+    "title": "Early EDA",
     "section": "",
-    "text": "Insert description down here!"
+    "text": "Following the commencement of the SURE camp this summer, the program began with a joint lecture session between the sports and health camps. A fortnight into the proceedings, all 30 of us were randomly split into groups of 3.\nThe project involved showcasing a basic understanding of sports collated data, that can be applicable to solving prospective research questions. My group created 3 simple plots to guide our initial analytics orientation before the final capstone group were to be announced."
+  },
+  {
+    "objectID": "UntitledQMD.html#introduction",
+    "href": "UntitledQMD.html#introduction",
+    "title": "Weapons of Best Production: Predicting the Optimal Pitch Arsenal Adjustment for Superior Stuff+",
+    "section": "Introduction",
+    "text": "Introduction\nBaseball is a game of constant alteration and evolution, influenced by the innovations of each generation. Players and teams are always exploring tactics to find an edge over their adversaries. Even at the pinnacle of their success, the best players will scout out new competitive advantages to improve their performance. After a terrific individual season and a 2022 World Series victory, Ryan Pressly, the closing pitcher for the Houston Astros, continued to look for ways to improve. The next year, he threw his fastball less often and replaced it in part with a changeup, which he almost never threw in 2022. According to the popular metric Stuff+, Pressly’s 2023 changeup graded out as one of the best in baseball. Zack Wheeler, the ace of the Philadelphia Phillies, came into 2024 after a sixth-place finish in NL Cy Young Award voting the year prior. He added a splitter to his repertoire and has remained elite, arguably taking his performance to a new level.\nConventional wisdom states that the addition of a pitch lessens a pitcher’s predictability and makes it harder for a batter to hit. However, if a pitcher includes the wrong pitch to his arsenal, he could be setting himself up for failure if the offering is simply not good enoughtoo easy to hit. How did Pressly and Wheeler know which additions would result in success for their team? that they were adding the right ones? Could they truly be certain until they implemented these changes in a game?\nTherein lies our motivation for this project. We want to create a pitch recommendation system that suggests, with conviction, the best pitch for a pitcher to add to their arsenal. We approached this task by examining the characteristics of other pitches in an arsenal to generate Stuff+ predictions, which indicate the potential success of pitches not yet thrown by the pitcher.\n\n\n\n\n\nMaking changes to pitching arsenals is a crucial part of strategy and preparation. Here, we can see the number of pitchers who added or removed a certain pitch from the 2022 to 2023 season."
+  },
+  {
+    "objectID": "UntitledQMD.html#data",
+    "href": "UntitledQMD.html#data",
+    "title": "Weapons of Best Production: Predicting the Optimal Pitch Arsenal Adjustment for Superior Stuff+",
+    "section": "Data",
+    "text": "Data\nDescribe the data you’re using in detail, where you accessed it, along with relevant exploratory data analysis (EDA). You should also include descriptions of any major data pre-processing/cleaning steps."
+  },
+  {
+    "objectID": "UntitledQMD.html#methods",
+    "href": "UntitledQMD.html#methods",
+    "title": "Weapons of Best Production: Predicting the Optimal Pitch Arsenal Adjustment for Superior Stuff+",
+    "section": "Methods",
+    "text": "Methods\nDescribe the modeling techniques you chose, their assumptions, justifications for why they are appropriate for the problem, and your plan for comparison/evaluation approaches."
+  },
+  {
+    "objectID": "UntitledQMD.html#results",
+    "href": "UntitledQMD.html#results",
+    "title": "Weapons of Best Production: Predicting the Optimal Pitch Arsenal Adjustment for Superior Stuff+",
+    "section": "Results",
+    "text": "Results\nDescribe your results. This can include tables and plots showing your results, as well as text describing how your models worked and the appropriate interpretations of the relevant output. (Note: Don’t just write out the textbook interpretations of all model coefficients! Instead, interpret the output that is relevant for your question of interest that is framed in the introduction)"
+  },
+  {
+    "objectID": "UntitledQMD.html#discussion",
+    "href": "UntitledQMD.html#discussion",
+    "title": "Weapons of Best Production: Predicting the Optimal Pitch Arsenal Adjustment for Superior Stuff+",
+    "section": "Discussion",
+    "text": "Discussion\nGive your conclusions and summarize what you have learned with regards to your question of interest. Are there any limitations with the approaches you used? What do you think are the next steps to follow-up your project?"
+  },
+  {
+    "objectID": "UntitledQMD.html#appendix-a-quick-tutorial",
+    "href": "UntitledQMD.html#appendix-a-quick-tutorial",
+    "title": "Weapons of Best Production: Predicting the Optimal Pitch Arsenal Adjustment for Superior Stuff+",
+    "section": "Appendix: A quick tutorial",
+    "text": "Appendix: A quick tutorial\n(Feel free to remove this section when you submit)\nThis a Quarto document. To learn more about Quarto see https://quarto.org. You can use the Render button to see what it looks like in HTML.\n\nText formatting\nText can be bolded with double asterisks and italicized with single asterisks. Monospace text, such as for short code snippets, uses backticks. (Note these are different from quotation marks or apostrophes.) Links are written like this.\nBulleted lists can be written with asterisks:\n\nEach item starts on a new line with an asterisk.\nItems should start on the beginning of the line.\nLeave blank lines after the end of the list so the list does not continue.\n\nMathematics can be written with LaTeX syntax using dollar signs. For instance, using single dollar signs we can write inline math: (-b \\pm \\sqrt{b^2 - 4ac})/2a.\nTo write math in “display style”, i.e. displayed on its own line centered on the page, we use double dollar signs: \nx^2 + y^2 = 1\n\n\n\nCode blocks\nCode blocks are evaluated sequentially when you hit Render. As the code runs, R prints out which block is running, so naming blocks is useful if you want to know which one takes a long time. After the block name, you can specify chunk options. For example, echo controls whether the code is printed in the document. By default, output is printed in the document in monospace:\n\n\n                   mpg cyl disp  hp drat    wt  qsec vs am gear carb\nMazda RX4         21.0   6  160 110 3.90 2.620 16.46  0  1    4    4\nMazda RX4 Wag     21.0   6  160 110 3.90 2.875 17.02  0  1    4    4\nDatsun 710        22.8   4  108  93 3.85 2.320 18.61  1  1    4    1\nHornet 4 Drive    21.4   6  258 110 3.08 3.215 19.44  1  0    3    1\nHornet Sportabout 18.7   8  360 175 3.15 3.440 17.02  0  0    3    2\nValiant           18.1   6  225 105 2.76 3.460 20.22  1  0    3    1\n\n\nChunk options can also be written inside the code block, which is helpful for really long options, as we’ll see soon.\n\n\n                   mpg cyl disp  hp drat    wt  qsec vs am gear carb\nMazda RX4         21.0   6  160 110 3.90 2.620 16.46  0  1    4    4\nMazda RX4 Wag     21.0   6  160 110 3.90 2.875 17.02  0  1    4    4\nDatsun 710        22.8   4  108  93 3.85 2.320 18.61  1  1    4    1\nHornet 4 Drive    21.4   6  258 110 3.08 3.215 19.44  1  0    3    1\nHornet Sportabout 18.7   8  360 175 3.15 3.440 17.02  0  0    3    2\nValiant           18.1   6  225 105 2.76 3.460 20.22  1  0    3    1\n\n\n\n\nFigures\nIf a code block produces a plot or figure, this figure will automatically be inserted inline in the report. That is, it will be inserted exactly where the code block is.\n\n\n\n\n\nThis is a caption. It should explain what’s in the figure and what’s interesting about it. For instance: There is a negative, strong linear correlation between miles per gallon and horsepower for US cars in the 1970s.\n\n\n\n\nNotice the use of fig-width and fig-height to control the figure’s size (in inches). These control the sizes given to R when it generates the plot, so R proportionally adjusts the font sizes to be large enough.\n\n\nTables\nUse the knitr::kable() function to print tables as HTML:\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nmpg\ncyl\ndisp\nhp\ndrat\nwt\nqsec\nvs\nam\ngear\ncarb\n\n\n\n\nMazda RX4\n21.0\n6\n160\n110\n3.90\n2.620\n16.46\n0\n1\n4\n4\n\n\nMazda RX4 Wag\n21.0\n6\n160\n110\n3.90\n2.875\n17.02\n0\n1\n4\n4\n\n\nDatsun 710\n22.8\n4\n108\n93\n3.85\n2.320\n18.61\n1\n1\n4\n1\n\n\nHornet 4 Drive\n21.4\n6\n258\n110\n3.08\n3.215\n19.44\n1\n0\n3\n1\n\n\nHornet Sportabout\n18.7\n8\n360\n175\n3.15\n3.440\n17.02\n0\n0\n3\n2\n\n\n\n\n\nWe can summarize model results with a table. For instance, suppose we fit a linear regression model:\n\nmodel1 &lt;- lm(mpg ~ disp + hp + drat, data = mtcars)\n\nIt is not appropriate to simply print summary(model1) into the report. If we want the reader to understand what models we have fit and what their results are, we should provide a nicely formatted table. A simple option is to use the tidy() function from the broom package to get a data frame of the model fit, and simply report that as a table.\n\n\nPredicting fuel economy using vehicle features.\n\n\nTerm\nEstimate\nSE\nt\np\n\n\n\n\n(Intercept)\n19.34\n6.37\n3.04\n0.01\n\n\ndisp\n-0.02\n0.01\n-2.05\n0.05\n\n\nhp\n-0.03\n0.01\n-2.34\n0.03\n\n\ndrat\n2.71\n1.49\n1.83\n0.08"
   }
 ]

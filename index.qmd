@@ -2,7 +2,7 @@
 title: "Gabriel Eze"
 about: 
   template: trestles
-  image: assets/fzo2destf5mb2sebnmxd.jpg
+  image: assets/vantine_linked_in_2715485.jpg
   links: 
     - icon: envelope
       text: Email
@@ -16,4 +16,6 @@ about:
       href: https://www.linkedin.com/in/gabriel-eze/
 ---
 
-Welcome to my website! I am a rising junior at Centre College, double majoring in Mathematics & Data Science. I'm interested in soccer
+Welcome to my website! I am currently a junior at Centre College, double majoring in Mathematics and Data Science. I love playing soccer and video games—they are my escape from the constant demands of being a college student, especially as an international student. I hail from Nigeria in Sub-Saharan Africa, and I am the third of four boys. I'm fortunate to have the opportunity to pursue tertiary education here in the U.S.
+
+I've learned and grown immensely since my introduction to Western life here in Danville, KY, and the pursuit of the American dream. Looking back on my formative years, I remember my father always telling me that mathematics is the easiest subject because it never lies. I quickly developed a love for algebraic equations and word problems, which sparked my interest in Data Science and Analytics. A few years into college, my Mathematics professor encouraged me to add a mathematics major. Though it added extra responsibility, I knew my passion for math was still strong, and looking back, I feel incredibly fulfilled by that decision. As for my refined career path, I am eager to see what the next two years have in store for me!

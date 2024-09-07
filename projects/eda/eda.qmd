@@ -1,18 +1,19 @@
 ---
-title: "Capstone"
-description: "Pitch arsenal EDA"
-date: July 2024
+title: "Early EDA"
+description: "Introductory Data Visuaization"
+date: June 2024
 about: 
   template: solana
-  image: fzo2destf5mb2sebnmxd.jpg
+  image: img_2021.jpg
   links: 
     - icon: github
       text: 'GitHub'
-      href: https://github.com/nehakotha7/CMSAC-Dodgers-Project
+      href: https://github.com/ezegabriel/EDA-project-NFL-passing
     - icon: laptop
       text: Slides
-      href: https://docs.google.com/presentation/d/1ol66WBsCZmR8Umm8a6jy-t9BFpNCM59FGii47Q0GBLk/edit#slide=id.p
-
+      href: https://docs.google.com/presentation/d/1GJTmNTck7oN17UNmIDgNDp1s6aU40wCVYwmZQqpjlS0/edit#slide=id.g2e5931fc284_0_5
 ---
 
-Insert description down here!
+Following the commencement of the SURE camp this summer, the program began with a joint lecture session between the sports and health camps. A fortnight into the proceedings, all 30 of us were randomly split into groups of 3.
+
+The project involved showcasing a basic understanding of sports collated data, that can be applicable to solving prospective research questions. My group created 3 simple plots to guide our initial analytics orientation before the final capstone group were to be announced.
