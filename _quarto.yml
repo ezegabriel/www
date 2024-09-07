@@ -16,7 +16,7 @@ website:
       - icon: github
         href: https://github.com/ezegabriel
       - icon: file-pdf
-        href: assests/Eze_Gabriel_Resume.pdf
+        href: assets/Eze_Gabriel_Resume.pdf
 
 format:
   html:
