@@ -14,6 +14,7 @@ about:
     - icon: linkedin
       text: LinkedIn
       href: https://www.linkedin.com/in/gabriel-eze/
+      target: _blank
 ---
 
 Welcome to my website! I am currently a junior at Centre College, double majoring in Mathematics and Data Science. I love playing soccer and video games—they are my escape from the constant demands of being a college student, especially as an international student. I hail from Nigeria in Sub-Saharan Africa, and I am the third of four boys. I'm fortunate to have the opportunity to pursue tertiary education here in the U.S.

@@ -13,10 +13,13 @@ website:
     right: 
       - icon: linkedin
         href: https://www.linkedin.com/in/gabriel-eze/
+        target: _blank
       - icon: github
         href: https://github.com/ezegabriel
+        target: _blank
       - icon: file-pdf
         href: assets/Eze_Gabriel_Resume.pdf
+        target: _blank
 
 format:
   html:

@@ -1,7 +1,7 @@
 ---
 title: "Early EDA"
 description: "Introductory Data Visuaization"
-date: June 2024
+date: '2024-06-17'
 about: 
   template: solana
   image: img_2021.jpg
@@ -9,9 +9,11 @@ about:
     - icon: github
       text: 'GitHub'
       href: https://github.com/ezegabriel/EDA-project-NFL-passing
+      target: _blank
     - icon: laptop
       text: Slides
       href: https://docs.google.com/presentation/d/1GJTmNTck7oN17UNmIDgNDp1s6aU40wCVYwmZQqpjlS0/edit#slide=id.g2e5931fc284_0_5
+      target: _blank
 ---
 
 Following the commencement of the SURE camp this summer, the program began with a joint lecture session between the sports and health camps. A fortnight into the proceedings, all 30 of us were randomly split into groups of 3.

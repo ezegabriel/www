@@ -1,7 +1,7 @@
 ---
 title: "Capstone"
 description: "Predicting Optimal MLB Pitch Arsenals Using Machine Learning: A SURE 2024 Capstone at Carnegie Mellon"
-date: July 2024
+date: '2024-07-26'
 about: 
   template: solana
   image: IMG_4471.jpg
@@ -9,15 +9,19 @@ about:
     - icon: github
       text: 'GitHub'
       href: https://github.com/nehakotha7/CMSAC-Dodgers-Project
+      target: _blank
     - icon: laptop
       text: Slides
       href: https://docs.google.com/presentation/d/1D4JpL550SN8yslBY7vu3OtxS9_AtInp36FAbim5bltE/edit#slide=id.ga073618e60_0_16
+      target: _blank
     - icon: file
       text: Poster
       href: https://docs.google.com/presentation/d/1f-7EMfbfCMz854c0_g6PUmvfuLhPyjJYMqKSoNVsw6g/edit#slide=id.g2e183f6a93c_0_0
+      target: _blank
     - icon: pencil
       text: Report
       href: https://www.stat.cmu.edu/cmsac/sure/2024/showcase/baseball_dodgers/report.html#introduction
+      target: _blank
 ---
 
 The Capstone project, part of Carnegie Mellon’s SURE 2024 program, focused on building a pitch recommendation system for MLB players using Lasso regression and Random Foresting techniques. The goal was to predict Stuff+ values—a measure of a pitch's effectiveness—based on pitch characteristics like velocity and spin rate. By analyzing extensive MLB data from FanGraphs and Baseball Savant, our model suggested the best pitches for players to add to their arsenals, improving decision-making for teams and players.
