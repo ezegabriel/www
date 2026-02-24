@@ -4,7 +4,21 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Below, you can find my recent projects …\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCapstone\n\n\nPredicting Optimal MLB Pitch Arsenals Using Machine Learning: A SURE 2024 Capstone at Carnegie Mellon\n\n\n\n\n\nJul 26, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nEarly EDA\n\n\nIntroductory Data Visuaization\n\n\n\n\n\nJun 17, 2024\n\n\n\n\n\nNo matching items"
+    "text": "Below, you can find my recent projects …\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDataFest\n\n\nA Comparative Analysis of Value And Pricing Dynamics\n\n\n\n\n\nApr 13, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nCapstone\n\n\nPredicting Optimal MLB Pitch Arsenals Using Machine Learning: A SURE 2024 Capstone at Carnegie Mellon\n\n\n\n\n\nJul 26, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nEarly EDA\n\n\nIntroductory Data Visuaization\n\n\n\n\n\nJun 17, 2024\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "projects/datafest/datafest.html",
+    "href": "projects/datafest/datafest.html",
+    "title": "DataFest",
+    "section": "",
+    "text": "Our team analyzed post-COVID commercial leasing trends across tech, finance, and legal sectors. We examined regional patterns, rent per square foot, occupancy, and CBD versus suburban shifts to understand how office demand has evolved.\nKey findings included sustained CBD dominance in legal markets, rising suburban interest since 2022, finance paying the highest rents, and Manhattan and San Francisco behaving as structural outliers. The project emphasized translating leasing patterns into strategic insight rather than surface-level visualization."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Gabriel Eze",
+    "section": "",
+    "text": "Welcome to my website! I am currently a Senior at Centre College, double majoring in Mathematics and Data Science. Soccer and video games have always been my way of resetting — a necessary balance to the constant demands of academic life, particularly as an international student. I hail from Nigeria in Sub-Saharan Africa, the third of four boys, and I’m fortunate to have the opportunity to pursue tertiary education here in the U.S.\nI’ve learned and grown immensely since my introduction to Western life here in Danville, KY, and the pursuit of the American dream. Looking back on my formative years, I remember my father always telling me that Mathematics is the easiest subject because it never lies. I quickly developed a love for algebraic equations and word problems, which sparked my interest in Data Science and Analytics. A couple semesters into college, my Mathematics professor (Dr. John H. Wilson) encouraged me to add a Math major. Though it required extra responsibility, I was confident my passion for the subject was still strong as ever, and looking back, I feel incredibly fulfilled by that decision. And as for my refined career path, I am eager to see what graduation in store for me!"
   },
   {
     "objectID": "projects/capstone/capstone.html",
@@ -12,13 +26,6 @@
     "title": "Capstone",
     "section": "",
     "text": "The Capstone project, part of Carnegie Mellon’s SURE 2024 program, focused on building a pitch recommendation system for MLB players using Lasso regression and Random Foresting techniques. The goal was to predict Stuff+ values—a measure of a pitch’s effectiveness—based on pitch characteristics like velocity and spin rate. By analyzing extensive MLB data from FanGraphs and Baseball Savant, our model suggested the best pitches for players to add to their arsenals, improving decision-making for teams and players.\nThrough the use of data cleaning, cross-validation, and Random Forest, we identified key relationships between pitch types, delivering insights that could help optimize player performance. The project culminated in an interactive tool and a detailed presentation, which provided actionable recommendations for MLB teams looking to enhance their pitchers’ arsenal—ultimately with new and effective pitch variations."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Gabriel Eze",
-    "section": "",
-    "text": "Welcome to my website! I am currently a junior at Centre College, double majoring in Mathematics and Data Science. I love playing soccer and video games—they are my escape from the constant demands of being a college student, especially as an international student. I hail from Nigeria in Sub-Saharan Africa, and I am the third of four boys. I’m fortunate to have the opportunity to pursue tertiary education here in the U.S.\nI’ve learned and grown immensely since my introduction to Western life here in Danville, KY, and the pursuit of the American dream. Looking back on my formative years, I remember my father always telling me that mathematics is the easiest subject because it never lies. I quickly developed a love for algebraic equations and word problems, which sparked my interest in Data Science and Analytics. A few years into college, my mathematics professor (Dr. John H. Wilson) encouraged me to add a Math major. Though it required extra responsibility, I was confident my passion for the subject was still strong as ever, and looking back, I feel incredibly fulfilled by that decision. And as for my refined career path, I am eager to see what the next two years have in store for me!"
   },
   {
     "objectID": "projects/eda/eda.html",

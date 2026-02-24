@@ -3,6 +3,9 @@ title: "Projects"
 listing: 
   contents: projects
   type: default
+  sort: 
+    - 'date desc'
+    - 'title'
 ---
 
 Below, you can find my recent projects ...

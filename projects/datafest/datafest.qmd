@@ -1,0 +1,21 @@
+---
+title: "DataFest"
+description: "A Comparative Analysis of Value And Pricing Dynamics"
+date: '2025-04-13'
+about: 
+  template: solana
+  image: IMG_1206.JPG
+  links: 
+    - icon: github
+      text: 'GitHub'
+      href: https://github.com/ezegabriel/DataFest
+      target: _blank
+    - icon: laptop
+      text: Slides
+      href: assets/company_business_presentation.pdf
+      target: _blank
+---
+
+Our team analyzed post-COVID commercial leasing trends across tech, finance, and legal sectors. We examined regional patterns, rent per square foot, occupancy, and CBD versus suburban shifts to understand how office demand has evolved.
+
+Key findings included sustained CBD dominance in legal markets, rising suburban interest since 2022, finance paying the highest rents, and Manhattan and San Francisco behaving as structural outliers. The project emphasized translating leasing patterns into strategic insight rather than surface-level visualization.

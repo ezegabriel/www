@@ -2,6 +2,7 @@
   {
     "listing": "/projects.html",
     "items": [
+      "/projects/datafest/datafest.html",
       "/projects/capstone/capstone.html",
       "/projects/eda/eda.html"
     ]

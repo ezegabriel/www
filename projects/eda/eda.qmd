@@ -12,7 +12,7 @@ about:
       target: _blank
     - icon: laptop
       text: Slides
-      href: https://docs.google.com/presentation/d/1GJTmNTck7oN17UNmIDgNDp1s6aU40wCVYwmZQqpjlS0/edit#slide=id.g2e5931fc284_0_5
+      href: https://docs.google.com/presentation/d/1GJTmNTck7oN17UNmIDgNDp1s6aU40wCVYwmZQqpjlS0/edit?slide=id.p#slide=id.p
       target: _blank
 ---
 
