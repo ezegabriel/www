@@ -1,5 +1,5 @@
 ---
-title: "DataFest"
+title: "ASA DataFest"
 description: "A Comparative Analysis of Value And Pricing Dynamics"
 date: '2025-04-13'
 about: 
