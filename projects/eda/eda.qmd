@@ -1,6 +1,6 @@
 ---
 title: "Early EDA"
-description: "Introductory Data Visuaization"
+description: "Introductory Data Visualization"
 date: '2024-06-17'
 about: 
   template: solana

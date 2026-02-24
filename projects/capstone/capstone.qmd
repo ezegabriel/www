@@ -1,6 +1,6 @@
 ---
 title: "SURE Capstone"
-description: "Predicting Optimal MLB Pitch Arsenals Using ML"
+description: "Optimizing MLB Pitch Arsenals using ML"
 date: '2024-07-26'
 about: 
   template: solana
