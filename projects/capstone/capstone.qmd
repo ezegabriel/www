@@ -4,7 +4,7 @@ description: "Optimizing MLB Pitch Arsenals using ML"
 date: '2024-07-26'
 about: 
   template: solana
-  image: assets/IMG_4471.jpg
+  image: https://ezegabriel.github.io/www/assets/IMG_4471.jpg
   links: 
     - icon: github
       text: 'GitHub'
