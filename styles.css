@@ -16,12 +16,12 @@
 /* ---------------------------------------
    Navbar icon hover effect (RIGHT SIDE ONLY)
 ------------------------------------------ */
-.navbar-nav.ms-auto .nav-link i {
-  opacity: 0.85;
-  transition: transform 0.2s ease, opacity 0.2s ease;
+.navbar-nav.ms-auto .nav-link {
+  opacity: 0.9;
+  transition: transform 0.18s ease, opacity 0.18s ease;
 }
 
-.navbar-nav.ms-auto .nav-link:hover i {
-  transform: translateY(-3px) scale(1.15);
+.navbar-nav.ms-auto .nav-link:hover {
+  transform: scale(1.13);
   opacity: 1;
 }
