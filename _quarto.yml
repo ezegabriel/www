@@ -1,10 +1,11 @@
 project:
   type: website
   resources: 
-    - assets
+    - assets/
   output-dir: docs
 
 website:
+  site-url: https://ezegabriel.github.io/www
   title: "Gabriel Eze"
   navbar:
     left:
