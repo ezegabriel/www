@@ -336,7 +336,7 @@ ul.task-list li input[type="checkbox"] {
 
 </main></div>
     </div>
-    <img src="/assets/img_2021.jpg" class="about-image
+    <img src="../../assets/img_2021.jpg" class="about-image
   rounded " style="width: 15em;">
   </div>
 </div>
@@ -420,7 +420,7 @@ ul.task-list li input[type="checkbox"] {
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp("https:\/\/ezegabriel\.github\.io\/www");
+        var filterRegex = new RegExp('/' + window.location.host + '/');
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }
