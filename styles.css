@@ -29,3 +29,11 @@
   }
 }
 
+/* Prevent tap/focus weirdness on phones */
+.navbar-nav.ms-auto .nav-link:focus .bi,
+.navbar-nav.ms-auto .nav-link:active .bi,
+.navbar-nav.ms-auto .nav-link:focus-visible .bi {
+  transform: none;
+  opacity: 1;
+}
+
