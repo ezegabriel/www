@@ -5,6 +5,7 @@
    Makes the image responsive and
    prevents it from becoming huge
 -------------------------------- */
+
 .about-image {
   width: 30vw;
   max-width: 500px;
@@ -13,27 +14,31 @@
 }
 
 
+
 /* ---------------------------------------
    Navbar icon hover effect (RIGHT SIDE ONLY)
+   Desktop / mouse devices only 
 ------------------------------------------ */
-@media (hover: hover) and (pointer: fine) {
-  .navbar-nav.ms-auto .nav-link .bi {
-    opacity: 0.9;
-    transition: transform 0.18s ease, opacity 0.18s ease;
-    display: inline-block;
-  }
 
-  .navbar-nav.ms-auto .nav-link:hover .bi {
-    opacity: 1;
-    transform: scale(1.13);
-  }
+.navbar-nav.ms-auto .nav-link .bi {
+  opacity: 0.9;
+  transition: transform 0.18s ease, opacity 0.18s ease;
+  display: inline-block;
 }
 
-/* Prevent tap/focus weirdness on phones */
-.navbar-nav.ms-auto .nav-link:focus .bi,
-.navbar-nav.ms-auto .nav-link:active .bi,
-.navbar-nav.ms-auto .nav-link:focus-visible .bi {
-  transform: none;
+.navbar-nav.ms-auto .nav-link:hover .bi {
   opacity: 1;
+  transform: scale(1.13);
 }
+
+
+@media (hover: none), (pointer: coarse) {
+  .navbar-nav.ms-auto .nav-link:focus .bi,
+  .navbar-nav.ms-auto .nav-link:active .bi,
+  .navbar-nav.ms-auto .nav-link:focus-visible .bi {
+    transform: none;
+    opacity: 1;
+  }
+}
+
 
