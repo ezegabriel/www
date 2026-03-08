@@ -4,7 +4,7 @@ description: "Analysis of Value And Pricing Dynamics"
 date: '2025-04-13'
 about: 
   template: solana
-  image: IMG_1206.JPG
+  image: assets/IMG_1206.JPG
   links: 
     - icon: github
       text: 'GitHub'
