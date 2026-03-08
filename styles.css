@@ -1,1 +1,27 @@
 /* css styles */
+
+/* -----------------------------
+   About page profile image size
+   Makes the image responsive and
+   prevents it from becoming huge
+-------------------------------- */
+.about-image {
+  width: 30vw;
+  max-width: 500px;
+  min-width: 260px;
+  height: auto;
+}
+
+
+/* ---------------------------------------
+   Navbar icon hover effect (RIGHT SIDE ONLY)
+------------------------------------------ */
+.navbar-nav.ms-auto .nav-link i {
+  opacity: 0.85;
+  transition: transform 0.2s ease, opacity 0.2s ease;
+}
+
+.navbar-nav.ms-auto .nav-link:hover i {
+  transform: translateY(-3px) scale(1.15);
+  opacity: 1;
+}
