@@ -5,8 +5,6 @@ project:
   output-dir: docs
 
 website:
-  site-url: https://ezegabriel.github.io/www/
-  site-path: /www/
   title: "Gabriel Eze"
   navbar:
     left:

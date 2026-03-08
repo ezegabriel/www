@@ -12,11 +12,11 @@ about:
       target: _blank
     - icon: laptop
       text: Slides
-      href: assets/Dodgers_Presentation.pdf
+      href: https://ezegabriel.github.io/www/assets/Dodgers_Presentation.pdf
       target: _blank
     - icon: file
       text: Poster
-      href: assets/Poster_Dodgers_Project.pdf
+      href: https://ezegabriel.github.io/www/assets/Poster_Dodgers_Project.pdf
       target: _blank
     - icon: pencil
       text: Report
