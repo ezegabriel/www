@@ -323,11 +323,11 @@ ul.task-list li input[type="checkbox"] {
     <i class="bi bi-github"></i>
      <span class="about-link-text">GitHub</span>
   </a>
-  <a href="/assets/Dodgers_Presentation.pdf" class="about-link" rel="" target="_blank">
+  <a href="/../../assets/Dodgers_Presentation.pdf" class="about-link" rel="" target="_blank">
     <i class="bi bi-laptop"></i>
      <span class="about-link-text">Slides</span>
   </a>
-  <a href="/assets/Poster_Dodgers_Project.pdf" class="about-link" rel="" target="_blank">
+  <a href="/../../assets/Poster_Dodgers_Project.pdf" class="about-link" rel="" target="_blank">
     <i class="bi bi-file"></i>
      <span class="about-link-text">Poster</span>
   </a>
@@ -344,7 +344,7 @@ ul.task-list li input[type="checkbox"] {
 
 </main></div>
     </div>
-    <img src="/assets/IMG_4471.jpg" class="about-image
+    <img src="../../assets/IMG_4471.jpg" class="about-image
   rounded " style="width: 15em;">
   </div>
 </div>
@@ -428,7 +428,7 @@ ul.task-list li input[type="checkbox"] {
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp("https:\/\/ezegabriel\.github\.io");
+        var filterRegex = new RegExp('/' + window.location.host + '/');
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }

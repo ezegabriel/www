@@ -2,7 +2,7 @@
 title: "Gabriel Eze"
 about: 
   template: trestles
-  image: /assets/vantine_linked_in_2715485.jpg
+  image: assets/vantine_linked_in_2715485.jpg
   links: 
     - icon: envelope
       text: Email
