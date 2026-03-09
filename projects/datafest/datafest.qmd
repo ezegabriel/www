@@ -12,7 +12,7 @@ about:
       target: _blank
     - icon: laptop
       text: Slides
-      href: ../../assets/company_business_presentation.pdf
+      href: https://ezegabriel.github.io/www/assets/company_business_presentation.pdf
       target: _blank
 ---
 
