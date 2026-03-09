@@ -1,10 +1,11 @@
 project:
   type: website
   resources: 
-    - assets
+    - assets/
   output-dir: docs
 
 website:
+  site-url: "https://ezegabriel.github.io"
   title: "Gabriel Eze"
   navbar:
     left:
@@ -13,7 +14,7 @@ website:
       - projects.qmd
     right: 
       - icon: file-pdf
-        href: assets/Eze_Gabriel_Resume.pdf
+        href: /assets/Eze_Gabriel_Resume.pdf
         target: _blank
       - icon: github
         href: https://github.com/ezegabriel

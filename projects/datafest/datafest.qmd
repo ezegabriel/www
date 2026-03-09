@@ -4,7 +4,7 @@ description: "Analysis of Value And Pricing Dynamics"
 date: '2025-04-13'
 about: 
   template: solana
-  image: https://ezegabriel.github.io/www/assets/IMG_1206.JPG
+  image: /assets/IMG_1206.JPG
   links: 
     - icon: github
       text: 'GitHub'
@@ -12,7 +12,7 @@ about:
       target: _blank
     - icon: laptop
       text: Slides
-      href: https://ezegabriel.github.io/www/assets/company_business_presentation.pdf
+      href: /assets/company_business_presentation.pdf
       target: _blank
 ---
 

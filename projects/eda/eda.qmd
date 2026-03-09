@@ -4,7 +4,7 @@ description: "Introductory Data Visualization"
 date: '2024-06-17'
 about: 
   template: solana
-  image: https://ezegabriel.github.io/www/assets/img_2021.jpg
+  image: /assets/img_2021.jpg
   links: 
     - icon: github
       text: 'GitHub'
