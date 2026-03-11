@@ -8,8 +8,6 @@ website:
   title: "Gabriel Eze"
   navbar:
     left:
-      - href: index.qmd
-        text: Home
       - projects.qmd
     right: 
       - icon: file-pdf
