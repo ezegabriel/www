@@ -21,7 +21,7 @@
 ------------------------------------------ */
 
 .navbar-nav.ms-auto .nav-link .bi {
-  opacity: 0.9;
+  opacity: 0.95;
   transition: transform 0.18s ease, opacity 0.18s ease;
   display: inline-block;
 }
