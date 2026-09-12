@@ -12,4 +12,4 @@ about:
       target: _blank
 ---
 
-My team and I's first delivery at Carnegie Mellon Sports Analytics Conference.
+My team's and my first delivery at the Carnegie Mellon Sports Analytics Conference.
