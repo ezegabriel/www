@@ -1,0 +1,15 @@
+---
+title: "Centre Sports Analytics"
+description: "Extensive Clean/Analysis Pipeline"
+date: '2023-07-14'
+about:
+  template: solana
+  image: ../../assets/IMG_8294.jpg
+  links:
+    - icon: github
+      text: 'GitHub'
+      href: https://github.com/ezegabriel/centre_sports_analytics
+      target: _blank
+---
+
+My team and I's first delivery at Carnegie Mellon Sports Analytics Conference.
