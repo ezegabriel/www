@@ -10,6 +10,9 @@ about:
       text: 'GitHub'
       href: https://github.com/ezegabriel/centre_sports_analytics
       target: _blank
+    - icon: file
+      text: Poster
+      href: https://ezegabriel.github.io/www/assets/Copy_of_Sports_Analytics_Poster.pdf
 ---
 
 My team's and my first delivery at the Carnegie Mellon Sports Analytics Conference.
