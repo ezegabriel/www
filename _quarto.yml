@@ -11,7 +11,7 @@ website:
       - projects.qmd
     right: 
       - icon: file-pdf
-        href: assets/Eze_Gabriel_Resume.pdf
+        href: assets/Eze_Gabriel_CV.pdf
         target: _blank
       - icon: github
         href: https://github.com/ezegabriel
