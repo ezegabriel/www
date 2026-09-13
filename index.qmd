@@ -6,7 +6,7 @@ about:
   links: 
     - icon: envelope
       text: Email
-      href: mailto:chieloka.eze@centre.edu
+      href: mailto:ezegabriel737@gmail.com
     - icon: github
       text: GitHub
       href: https://github.com/ezegabriel
